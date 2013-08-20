@@ -27,3 +27,9 @@ This is a file for storing the connection information of HBase.
 **haredbClientUI.log:**
 If system has any error, the exception message will be appended to this file.
 If there is any thing goes wrong, please sent this file to us.
+
+Currently, we are not full ready for gitHub
+Please go to Sourceforge to download this tool.
+https://sourceforge.net/projects/haredbhbaseclie/?source=directory
+
+Thanks a lot.
